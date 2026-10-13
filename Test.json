@@ -12,5 +12,12 @@
         "password": "pass456",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ed336ccb315a2994",
+        "username": "ASADI",
+        "password": "KEY1234",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
     }
 ]
